@@ -38,7 +38,11 @@ If you found the repository useful, please cite our work as below:
 }
 
 ```
+and 
 
+```
+
+```
 
 # Reference
 1. X. Zhuang and J. Shen, “Multi-scale patch and multi-modality atlases for whole heart segmentation of MRI,” Medical image analysis, vol. 31, pp. 77–87, 2016.
