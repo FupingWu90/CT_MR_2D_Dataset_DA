@@ -41,7 +41,26 @@ If you found the repository useful, please cite our work as below:
 and 
 
 ```
+@ARTICLE{9165963,
 
+  author={F. {Wu} and X. {Zhuang}},
+
+  journal={IEEE Transactions on Medical Imaging}, 
+
+  title={CF Distance: A New Domain Discrepancy Metric and Application to Explicit Domain Adaptation for Cross-Modality Cardiac Image Segmentation}, 
+
+  year={2020},
+
+  volume={},
+
+  number={},
+
+  pages={1-1},}
+```
+
+or
+```
+F. Wu and X. Zhuang, "CF Distance: A New Domain Discrepancy Metric and Application to Explicit Domain Adaptation for Cross-Modality Cardiac Image Segmentation," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2020.3016144.
 ```
 
 # Reference
