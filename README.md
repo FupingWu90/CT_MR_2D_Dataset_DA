@@ -29,18 +29,6 @@ view around the center of left ventricular cavity. They do not have the manual l
 
 If you found the repository useful, please cite our work as below:
 ```
-@article{Zhuang2016Multi,
-  title={Multi-scale patch and multi-modality atlases for whole heart segmentation of MRI.},
-  author={Zhuang, Xiahai and Shen, Juan},
-  journal={Medical Image Analysis},
-  pages={77-87},
-  year={2016},
-}
-
-```
-and 
-
-```
 @ARTICLE{9165963,
 
   author={F. {Wu} and X. {Zhuang}},
@@ -56,6 +44,19 @@ and
   number={},
 
   pages={1-1},}
+```
+
+and 
+
+```
+@article{Zhuang2016Multi,
+  title={Multi-scale patch and multi-modality atlases for whole heart segmentation of MRI.},
+  author={Zhuang, Xiahai and Shen, Juan},
+  journal={Medical Image Analysis},
+  pages={77-87},
+  year={2016},
+}
+
 ```
 
 or
