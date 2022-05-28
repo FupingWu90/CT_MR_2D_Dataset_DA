@@ -1,6 +1,6 @@
 # CT_MR_2D_Dataset_DA
 
-The dataset contains selected slices from multi-center, used in paper (1-3). 
+The dataset contains selected slices from multi-center, used in the following papers 1-3.
 1. X. Zhuang et al., “Evaluation of algorithms for multi-modality whole heart segmentation: An open-access grand challenge,” Med. Image Anal.,
 vol. 58, pp. 101537–101550, Dec. 2019.
 2. X. Zhuang and J. Shen, “Multi-scale patch and multi-modality atlases
