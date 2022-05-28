@@ -1,11 +1,14 @@
 # CT_MR_2D_Dataset_DA
 
 The dataset contains selected slices from multi-center, used in the following papers (a)-(c).
+
 (a). X. Zhuang et al., “Evaluation of algorithms for multi-modality whole heart segmentation: An open-access grand challenge,” Med. Image Anal.,
 vol. 58, pp. 101537–101550, Dec. 2019.
+
 (b). X. Zhuang and J. Shen, “Multi-scale patch and multi-modality atlases
 for whole heart segmentation of MRI,” Med. Image Anal., vol. 31,
 pp. 77–87, Jul. 2016.
+
 (c). M. Schaap et al., “Standardized evaluation methodology and reference
 database for evaluating coronary artery centerline extraction
 algorithms,” Med. Image Anal., vol. 13, no. 5, pp. 701–714,
