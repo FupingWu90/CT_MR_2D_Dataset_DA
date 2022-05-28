@@ -12,7 +12,7 @@ algorithms,” Med. Image Anal., vol. 13, no. 5, pp. 701–714,
 Oct. 2009.
 
 
-It contains five zipped files of CT and MR images as described below:
+It contains five zipped files of CT and MR images as described below for evaluation of **LV and Myocardium segmentation**:
 # CT with ground truth
 
 The file `CT_withGT.zip' contains 20 cases of CT, each case has 16 slices from the long-axis
