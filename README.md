@@ -1,6 +1,6 @@
 # CT_MR_2D_Dataset_DA
 
-The dataset contains selected slices from multi-center, used in paper (1-3). It contains five zipped files of CT and MR images as described below:
+The dataset contains selected slices from multi-center, used in paper (1-3). 
 1. X. Zhuang et al., “Evaluation of algorithms for multi-modality whole heart segmentation: An open-access grand challenge,” Med. Image Anal.,
 vol. 58, pp. 101537–101550, Dec. 2019.
 2. X. Zhuang and J. Shen, “Multi-scale patch and multi-modality atlases
@@ -10,6 +10,9 @@ pp. 77–87, Jul. 2016.
 database for evaluating coronary artery centerline extraction
 algorithms,” Med. Image Anal., vol. 13, no. 5, pp. 701–714,
 Oct. 2009.
+
+
+It contains five zipped files of CT and MR images as described below:
 # CT with ground truth
 
 The file `CT_withGT.zip' contains 20 cases of CT, each case has 16 slices from the long-axis
